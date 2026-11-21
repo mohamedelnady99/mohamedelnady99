@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-nasr-elnady/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/201155075584"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/mohamedelnady99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=mohamedelnady99&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
@@ -124,6 +125,7 @@ class MohamedNasr(SoftwareEngineer):
 
 <p align="center">
   <b>Have a business problem AI can solve? Let's talk.</b><br/><br/>
+  <a href="https://www.linkedin.com/in/mohamed-nasr-elnady/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/201155075584"><img src="https://img.shields.io/badge/Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
