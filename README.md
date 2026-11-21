@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=220&section=header&text=Mohamed%20Nasr%20Elnady&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Solutions%20Engineer%20%C2%B7%20Software%20%26%20AI%20for%20Businesses&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=220&section=header&text=Mohamed%20Nasr%20Elnady&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Solutions%20Engineer%20-%20Software%20and%20AI%20for%20Businesses&descAlignY=58&descSize=18" />
 
 <p align="center">
   <a href="https://github.com/mohamedelnady99">
