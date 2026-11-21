@@ -110,6 +110,18 @@ class MohamedNasr(SoftwareEngineer):
   </picture>
 </p>
 
+## 🧊 3D contributions
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</p>
+
+## 🛤️ My journey
+
+<p align="center">
+  <img width="100%" src="./assets/journey.svg" alt="My journey timeline" />
+</p>
+
 <p align="center">
   <b>Have a business problem AI can solve? Let's talk.</b><br/><br/>
   <a href="https://wa.me/201155075584"><img src="https://img.shields.io/badge/Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
