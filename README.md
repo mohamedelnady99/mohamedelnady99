@@ -114,6 +114,8 @@ class MohamedNasr(SoftwareEngineer):
 ## 🧊 3D contributions
 
 <p align="center">
+  <img width="100%" src="./assets/core-stack.svg" alt="Core stack" />
+  <br/><br/>
   <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
 
